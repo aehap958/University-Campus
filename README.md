@@ -31,14 +31,13 @@ We are building a secure network for a university campus[cite: 3]. The goal is t
 ## 3. Firewall Network Interfaces (GUI).
 This section shows the firewall interfaces. Every department has a specific VLAN and sub-interface[cite: 3].
 
-<img width="1150" height="457" alt="image" src="https://github.com/user-attachments/assets/74cd3a5c-6420-4e7f-9514-d654f06b47e9" />
+<img width="1200" height="2089" alt="11111111" src="https://github.com/user-attachments/assets/a660b0a0-79c5-441a-be24-9c6811d1fb12" />
 
 ---
 ## . Firewall Network Interfaces.
 
 <img width="1182" height="577" alt="image" src="https://github.com/user-attachments/assets/a595192d-1d18-4b86-88d2-cf353d50fd8c" />
 
-*(شيل الكلام العربي وحط اسم صورة الـ Interfaces)*
 
 ---
 
@@ -48,7 +47,6 @@ Here are the security rules. They control who can open the servers and the inter
 <img width="1160" height="450" alt="image" src="https://github.com/user-attachments/assets/1341e187-36b8-41e9-b8d1-c04d1d7d9c01" />
 
 
-*(شيل الكلام العربي وحط اسم صورة الـ Policies)*
 
 ---
 
@@ -58,7 +56,6 @@ We used Source NAT (Easy-IP) to allow internal users to go to the Internet.
 <img width="1718" height="672" alt="image" src="https://github.com/user-attachments/assets/e9559c57-05e3-4f84-a5ce-f0fa6c0ed827" />
 
 
-*(شيل الكلام العربي وحط اسم صورة الـ NAT)*
 
 ---
 
