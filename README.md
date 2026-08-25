@@ -31,7 +31,7 @@ We are building a secure network for a university campus[cite: 3]. The goal is t
 ## 3. Firewall Network Interfaces (GUI).
 This section shows the firewall interfaces. Every department has a specific VLAN and sub-interface[cite: 3].
 
-<img width="1200" height="2089" alt="11111111" src="https://github.com/user-attachments/assets/a660b0a0-79c5-441a-be24-9c6811d1fb12" />
+<img width="1297" height="522" alt="image" src="https://github.com/user-attachments/assets/54a94109-6bb5-4259-bfe1-2d038e2ebb0e" />
 
 ---
 ## . Firewall Network Interfaces.
