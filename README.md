@@ -82,10 +82,6 @@ This is the configuration for the Core Switch to create VLANs and the Trunk port
 
 Thank you for reading my project! 
 
-Building this university campus network helped me practice my skills in network security, VLANs, and Huawei Firewalls. It is a great practical step in my Telecommunications and Electronics Engineering studies as I prepare to graduate in 2027. 
-
-I am always excited to learn more about network infrastructure and security. Feel free to reach out to me!
-
 **Let's Connect:**
 * 💼 **LinkedIn:** [Ahmed Ehab](www.linkedin.com/in/ahmedehab-engineer)
 * 📧 **Email:** [Contact Me](eng.ahmed.ehap@gmail.com)
