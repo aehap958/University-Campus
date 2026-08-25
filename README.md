@@ -83,5 +83,5 @@ This is the configuration for the Core Switch to create VLANs and the Trunk port
 Thank you for reading my project! 
 
 **Let's Connect:**
-* 💼 **LinkedIn:** [Ahmed Ehab](www.linkedin.com/in/ahmedehab-engineer)
-* 📧 **Email:** [Contact Me](eng.ahmed.ehap@gmail.com)
+* 💼 **LinkedIn:** www.linkedin.com/in/ahmedehab-engineer
+* 📧 **Email:** eng.ahmed.ehap@gmail.com
