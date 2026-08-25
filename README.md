@@ -62,13 +62,13 @@ We used Source NAT (Easy-IP) to allow internal users to go to the Internet.
 ## 6. CLI Configuration — Core Switch.
 This is the configuration for the Core Switch to create VLANs and the Trunk port.
 
-<img width="453" height="717" alt="image" src="https://github.com/user-attachments/assets/d17e964e-ba12-412c-9ccf-2f2373c50d37" />
+<img width="1200" height="2089" alt="11111111" src="https://github.com/user-attachments/assets/6c0559a0-fabb-4d6d-8983-af51ef148a73" />
 
 ---
 
 ## 7. Firewall CLI — Interfaces & Security Zones.
 
-<img width="646" height="688" alt="image" src="https://github.com/user-attachments/assets/751de0a2-f633-4178-ba81-d6db5d259091" />
+<img width="1200" height="1400" alt="222222222222222222" src="https://github.com/user-attachments/assets/60ab0ce5-83e7-48ef-bf11-f79840b375e3" />
 
 ---
 
