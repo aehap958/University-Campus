@@ -74,19 +74,19 @@ This is the configuration for the Core Switch to create VLANs and the Trunk port
 
 ## 8. UTM Profiles & Time-Range.
 
-<img width="818" height="353" alt="image" src="https://github.com/user-attachments/assets/f6142826-28e7-4a79-9637-6d362c6fcc02" />
+<img width="2000" height="1127" alt="3333333333333" src="https://github.com/user-attachments/assets/237fec9a-5b31-4db9-85a3-aa6052584549" />
 
 
 ---
 
 ## 9. Security Policies — DMZ Access Rules.
 
-<img width="476" height="560" alt="image" src="https://github.com/user-attachments/assets/7a1016ec-4ee5-4ee1-9dca-7ea1ed26e592" />
+<img width="1200" height="1544" alt="44444444444444" src="https://github.com/user-attachments/assets/e599fc83-a165-4549-a203-16bf03a23478" />
 
 
 ---
 
 ## 10. Security Policies — DMZ Access Rules.
 
-<img width="470" height="326" alt="image" src="https://github.com/user-attachments/assets/9c62f3f7-44bc-49ac-8938-a4a6d1bddb30" />
+<img width="947" height="707" alt="image" src="https://github.com/user-attachments/assets/9f5558ff-d887-4c00-87a6-77b949de0e44" />
 
